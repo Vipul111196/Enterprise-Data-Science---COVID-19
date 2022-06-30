@@ -15,7 +15,7 @@
 
 - Linear Graph for the relative cases overtime of Covid infectors (absolut Covid cases/population size)
 
-![]()
+![](https://github.com/Vipul111196/Enterprise-Data-Science---COVID-19/blob/main/Image/1.%20The%20relative%20cases%20overtime%20of%20Covid%20infectors%20absolute%20Covid%20cases%20wrt%20population%20size.png)
 
 - Linear Graph for the vaccination rate (percentage of the population) for fully vaccinated people over time for four countries.
 
