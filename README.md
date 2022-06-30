@@ -15,13 +15,13 @@
 
 - Linear Graph for the relative cases overtime of Covid infectors (absolut Covid cases/population size)
 
-
+![]()
 
 - Linear Graph for the vaccination rate (percentage of the population) for fully vaccinated people over time for four countries.
 
-
+![]()
 
 - Linear Graph for the vaccination rate (percentage of the population) for partially vaccinated people over time for four countries
 
-
+![]()
 
