@@ -11,7 +11,7 @@
 
 
 
-## Screenshots
+## Screenshots of the results
 
 - Linear Graph for the relative cases overtime of Covid infectors (absolut Covid cases/population size)
 
