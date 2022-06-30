@@ -19,7 +19,7 @@
 
 - Linear Graph for the vaccination rate (percentage of the population) for fully vaccinated people over time for four countries.
 
-![]()
+![](https://github.com/Vipul111196/Enterprise-Data-Science---COVID-19/blob/main/Image/2.1%20Vaccination_rate%20with%20both%20doses%20over%20time.png)
 
 - Linear Graph for the vaccination rate (percentage of the population) for partially vaccinated people over time for four countries
 
