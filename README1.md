@@ -1,7 +1,20 @@
-eds
-==============================
+# Enterprise Data Science - COVID-19
 
-enyterprise data science project on COVID-19 data
+-Applied Data science Project.
+
+-Dataset used - John Hopkins Dataset
+-Libraries used - Numpy, Pandas, Matplotlib, Plotly, Scikit learn
+
+-Language used - Python
+
+-About the project: An analysis of the corona cases of different countries around the globe, the doubling rate associated and the general trend.
+		    Alongwith this, implementation of SIR (Susceptible population, Infectious population and Recovered population) for Germany
+
+
+How to use the contents:
+
+1. To run the dynamic dashboard, simply clone then repository -> go to /notebooks/05_Evaluation_walk_through
+2. To run the SIR model for Germany -> go to /notebooks/08_SIR_modeling_2022
 
 Project Organization
 ------------
@@ -53,21 +66,6 @@ Project Organization
 
 
 --------
-	Applied Data science Project.
-	
-	Dataset used - John Hopkins Dataset
-	Libraries used - Plotly, Scikit learn
-	
-	Language used - Python
-	
-	About the project: An analysis of the corona cases of different countries around the globe, the doubling rate associated and the general trend.
-			    Alongwith this, implementation of SIR (Susceptible population, Infectious population and Recovered population) for Germany
-
-
-	How to use the contents:
-	
-	1. To run the dynamic dashboard, simply clone then repository -> go to src/visualisation/visualize.py
-	2. To run the SIR model for Germany - Run SIR_model.py
 
 # A Sneak peek of the project
 
