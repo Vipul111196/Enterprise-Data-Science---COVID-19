@@ -1,6 +1,6 @@
 # Enterprise Data Science - COVID-19
 
--Applied Data science Project.
+## Applied Data science Project.
 
 -Dataset used - John Hopkins Dataset
 -Libraries used - Numpy, Pandas, Matplotlib, Plotly, Scikit learn
