@@ -71,7 +71,7 @@ Project Organization
 
 - [@Vipul111196](https://github.com/Vipul111196)
 
-A Sneak peek of the project
+## A Sneak peek of the project
 
 1. Timeline Confirmed
 <img src="Timeline_confirmed.gif">
