@@ -66,6 +66,14 @@ Project Organization
 
 
 --------
+# A Sneak peek of the project
+
+1. COVID-19 Spread Dashboard
+<img src="Timeline_confirmed.gif">
+
+2. SIR Model Dashboard
+<img src = "Timeline_confirmed_filtered.gif">
+
 
 ## Authors
 
