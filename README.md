@@ -15,7 +15,6 @@ How to use the contents:
 
 1. To run the dynamic dashboard, simply clone then repository -> go to /notebooks/05_Evaluation_walk_through
 2. To run the SIR model for Germany -> go to /notebooks/08_SIR_modeling_2022
-3. To watch video explanation -> EDS_COVID-19.mp4
 
 Project Organization
 ------------
