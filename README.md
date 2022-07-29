@@ -15,6 +15,7 @@ How to use the contents:
 
 1. To run the dynamic dashboard, simply clone then repository -> go to /notebooks/05_Evaluation_walk_through
 2. To run the SIR model for Germany -> go to /notebooks/08_SIR_modeling_2022
+3. To watch video explanation -> EDS_COVID-19.mp4
 
 Project Organization
 ------------
@@ -69,9 +70,11 @@ Project Organization
 # A Sneak peek of the project
 
 1. COVID-19 Spread Dashboard
+
 ![GIF COVID-19 Spread](https://user-images.githubusercontent.com/108230953/181749434-33c2276c-623e-4499-a99f-755e866d17f8.gif)
 
 2. SIR Model Dashboard
+
 ![GIF SIR Model](https://user-images.githubusercontent.com/108230953/181749574-5a2e8763-ec8c-44d0-be21-4d2d40cd76b8.gif)
 
 
